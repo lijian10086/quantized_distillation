@@ -113,3 +113,7 @@ The code is licensed under the MIT Licence. See the [LICENSE.md](LICENSE.md) fil
 # Acknowledgements
 
 We would like to thank Ce Zhang  (ETH Zürich), Hantian Zhang (ETH Zürich) and Martin Jaggi (EPFL) for their support with experiments and valuable feedback.
+
+# 李剑备注：
+https://blog.csdn.net/yingpeng_zhong/article/details/80213016
+本源码的博客：（笔记）通过知识蒸馏和量化进行模型压缩
